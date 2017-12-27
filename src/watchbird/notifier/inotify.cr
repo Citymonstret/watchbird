@@ -1,4 +1,4 @@
-require "./event"
+require "../event"
 
 lib LibInotify
   struct Event
