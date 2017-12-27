@@ -22,7 +22,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   watchbird:
-    github: agatan/watchbird
+    github: Sauilitired/watchbird
 ```
 
 # Usage
